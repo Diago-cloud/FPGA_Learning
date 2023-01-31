@@ -1,0 +1,15 @@
+F:/Learning/FPGA/Project/Altera/FSM/Swq_101/Sim/TB_Seq_101.v {1 {vlog -work work -vopt F:/Learning/FPGA/Project/Altera/FSM/Swq_101/Sim/TB_Seq_101.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module TB_Seq_101
+
+Top level modules:
+	TB_Seq_101
+
+} {} {}} F:/Learning/FPGA/Project/Altera/FSM/Swq_101/Sim/Seq_101.v {1 {vlog -work work -vopt F:/Learning/FPGA/Project/Altera/FSM/Swq_101/Sim/Seq_101.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Swq_101
+
+Top level modules:
+	Swq_101
+
+} {} {}}

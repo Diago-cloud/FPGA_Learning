@@ -1,0 +1,52 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Learning\FPGA\Project\Altera\FSM\SEQ_101\Projecct_quartus\simulation\modelsim
+T_opt
+VDJlFeCV13428dc:??SLf62
+04 10 4 work TB_Seq_101 fast 0
+=1-54ee75957167-63d7f4ea-231-3e28
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.1c;51
+vSeq_101
+IVblG45HVmTe9Y6VO^d1UE2
+VBgmV?Z80A3B<NTjJaej>I3
+Z1 dF:\Learning\FPGA\Project\Altera\FSM\SEQ_101\Projecct_quartus\simulation\modelsim
+w1675095885
+8F:/Learning/FPGA/Project/Altera/FSM/SEQ_101/Src/Seq_101.v
+FF:/Learning/FPGA/Project/Altera/FSM/SEQ_101/Src/Seq_101.v
+L0 3
+Z2 OL;L;10.1c;51
+r1
+31
+Z3 o-vlog01compat -work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@seq_101
+!i10b 1
+!s100 h<hAITZ=OeeX^ZlN91@k@3
+!s85 0
+!s108 1675097322.062000
+!s107 F:/Learning/FPGA/Project/Altera/FSM/SEQ_101/Src/Seq_101.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Learning/FPGA/Project/Altera/FSM/SEQ_101/Src|F:/Learning/FPGA/Project/Altera/FSM/SEQ_101/Src/Seq_101.v|
+!s92 -vlog01compat -work work +incdir+F:/Learning/FPGA/Project/Altera/FSM/SEQ_101/Src -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vTB_Seq_101
+I`C;JA]M>IN]zK^Yg^>b@_3
+Vd[^I8Hlg:9g8DHz:_a:Cn3
+R1
+w1675097159
+8F:/Learning/FPGA/Project/Altera/FSM/SEQ_101/Projecct_quartus/../Sim/TB_Seq_101.v
+FF:/Learning/FPGA/Project/Altera/FSM/SEQ_101/Projecct_quartus/../Sim/TB_Seq_101.v
+L0 3
+R2
+r1
+31
+R3
+n@t@b_@seq_101
+!i10b 1
+!s100 8:0znW2?ScR:b^:]i3hNQ2
+!s85 0
+!s108 1675097322.157000
+!s107 F:/Learning/FPGA/Project/Altera/FSM/SEQ_101/Projecct_quartus/../Sim/TB_Seq_101.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Learning/FPGA/Project/Altera/FSM/SEQ_101/Projecct_quartus/../Sim|F:/Learning/FPGA/Project/Altera/FSM/SEQ_101/Projecct_quartus/../Sim/TB_Seq_101.v|
+!s92 -vlog01compat -work work +incdir+F:/Learning/FPGA/Project/Altera/FSM/SEQ_101/Projecct_quartus/../Sim -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF

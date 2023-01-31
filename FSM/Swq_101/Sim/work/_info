@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+dF:\Learning\FPGA\Project\Altera\FSM\Counter_M5\Sim
+vSwq_101
+V]663:@c2>fjLQ`a=ToBHm3
+r1
+!s85 0
+31
+I35oOoeRjT03H7zh=Fko[e1
+Z0 dF:\Learning\FPGA\Project\Altera\FSM\Swq_101\Sim
+w1675161748
+8F:/Learning/FPGA/Project/Altera/FSM/Swq_101/Sim/Seq_101.v
+FF:/Learning/FPGA/Project/Altera/FSM/Swq_101/Sim/Seq_101.v
+L0 3
+Z1 OL;L;10.1c;51
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@swq_101
+!s100 h>9blbMg`40@GgHJ[XO]H1
+!s108 1675163037.964000
+!s107 F:/Learning/FPGA/Project/Altera/FSM/Swq_101/Sim/Seq_101.v|
+!s90 -reportprogress|300|-work|work|-vopt|F:/Learning/FPGA/Project/Altera/FSM/Swq_101/Sim/Seq_101.v|
+!i10b 1
+vTB_Seq_101
+Vd[^I8Hlg:9g8DHz:_a:Cn3
+r1
+31
+I2WRlM0VZX4N2`iWX_Y:j:1
+Z3 dF:\Learning\FPGA\Project\Altera\FSM\Swq_101\Sim
+w1675162929
+8F:/Learning/FPGA/Project/Altera/FSM/Swq_101/Sim/TB_Seq_101.v
+FF:/Learning/FPGA/Project/Altera/FSM/Swq_101/Sim/TB_Seq_101.v
+L0 3
+R1
+R2
+n@t@b_@seq_101
+!s85 0
+!i10b 1
+!s100 B<`0o5V1Po`PQPJMEO0Dm1
+!s108 1675163038.054000
+!s107 F:/Learning/FPGA/Project/Altera/FSM/Swq_101/Sim/TB_Seq_101.v|
+!s90 -reportprogress|300|-work|work|-vopt|F:/Learning/FPGA/Project/Altera/FSM/Swq_101/Sim/TB_Seq_101.v|

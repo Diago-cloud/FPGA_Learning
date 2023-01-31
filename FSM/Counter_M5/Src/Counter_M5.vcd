@@ -1,0 +1,30 @@
+$date
+	Mon Jan 30 19:43:20 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module tb_Counter_M5 $end
+$var wire 1 ! z $end
+$var wire 3 " qout [2:0] $end
+$var reg 1 # clk $end
+$var reg 1 $ rst_n $end
+$scope module u_Counter_M5 $end
+$var wire 1 # clk $end
+$var wire 1 $ rst_n $end
+$var reg 3 % qout [2:0] $end
+$var reg 1 ! z $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 %
+0$
+1#
+b0 "
+x!
+$end

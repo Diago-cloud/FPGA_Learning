@@ -1,0 +1,10 @@
+|Swq_101
+clk => state~3.DATAIN
+rst_n => state~5.DATAIN
+x => state.DATAB
+x => Selector1.IN1
+x => Selector0.IN1
+x => Selector2.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
